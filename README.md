@@ -1,1 +1,1 @@
-# New Programming Language built on Python 
+# New Programming Language(Just for Learn)
